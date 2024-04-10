@@ -1,0 +1,2 @@
+This is a sample file that will be saved in MySQL database.
+i just want to confirm the authenticity of the database.
